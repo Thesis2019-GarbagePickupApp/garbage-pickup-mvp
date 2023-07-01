@@ -1,13 +1,7 @@
 # MVP of Garbage Pickup App
 
-<iframe width="560" height="315" src='https://dbdiagram.io/embed/649fab0202bd1c4a5e55430f'> </iframe>
-
-- ## List Entity Minimal
-    ```sql
-    table user {
-        id int []
-    }
-    ``` 
+- ## Database Schema
+    - [Schema](https://dbdiagram.io/embed/649fab0202bd1c4a5e55430f)
 
 - ## List pages
     - Login Page
